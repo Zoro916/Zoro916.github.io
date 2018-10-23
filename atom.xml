@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>走在作死的道路上一往无前</title>
+  
+  <subtitle>zoro 前端工程师</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://blog.zoulei.com.cn/"/>
+  <updated>2018-10-23T14:25:35.253Z</updated>
+  <id>http://blog.zoulei.com.cn/</id>
+  
+  <author>
+    <name>Zoro</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>给姜雪的培训讲义</title>
+    <link href="http://blog.zoulei.com.cn/2018/10/23/%E7%BB%99%E5%A7%9C%E9%9B%AA%E7%9A%84%E5%9F%B9%E8%AE%AD%E8%AE%B2%E4%B9%89/"/>
+    <id>http://blog.zoulei.com.cn/2018/10/23/给姜雪的培训讲义/</id>
+    <published>2018-10-23T14:25:11.000Z</published>
+    <updated>2018-10-23T14:25:35.253Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;前端工程师行业认知培训&quot;&gt;&lt;a href=&quot;#前端工程师行业认知培训&quot; class=&quot;headerlink&quot; title=&quot;前端工程师行业认知培训&quot;&gt;&lt;/a&gt;前端工程师行业认知培训&lt;/h1&gt;&lt;h2 id=&quot;linux主机初识&quot;&gt;&lt;a href=&quot;#linux主机初
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>一道面试题引发的思考</title>
+    <link href="http://blog.zoulei.com.cn/2018/10/23/%E4%B8%80%E9%81%93%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BC%95%E5%8F%91%E7%9A%84%E6%80%9D%E8%80%83/"/>
+    <id>http://blog.zoulei.com.cn/2018/10/23/一道面试题引发的思考/</id>
+    <published>2018-10-23T13:34:18.000Z</published>
+    <updated>2018-10-23T14:21:26.014Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;起因&quot;&gt;&lt;a href=&quot;#起因&quot; class=&quot;headerlink&quot; title=&quot;起因&quot;&gt;&lt;/a&gt;起因&lt;/h2&gt;&lt;p&gt;今天跟一位程序员朋友日常聊天，聊到了一道面试题：&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;请用JS实现一个函数Inse
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
