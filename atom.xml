@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>走在作死的道路上一往无前</title>
   
-  <subtitle>zoro 前端工程师</subtitle>
+  <subtitle>&lt;zoro_1943@icloud.com&gt; 前端工程师</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.zoulei.com.cn/"/>
@@ -10,7 +10,7 @@
   <id>http://blog.zoulei.com.cn/</id>
   
   <author>
-    <name>&lt;zoro_1943@icloud.com&gt;</name>
+    <name>Zoro</name>
     
   </author>
   
